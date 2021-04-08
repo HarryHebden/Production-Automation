@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+*.sh
+
+# Output Reports
+*.pdf
+
+# Build directory
+/cpp/build
